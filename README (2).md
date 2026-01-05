@@ -60,7 +60,7 @@ Perfect for **learning, demos, and showcasing frontend skills** 🚀
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 mini-shop/
@@ -83,7 +83,7 @@ mini-shop/
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/mini-shop.git
@@ -94,7 +94,7 @@ npm start
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
 - Checkout page  
 - User authentication  
@@ -104,13 +104,3 @@ npm start
 
 ---
 
-## ⭐ Support
-
-If you like this project, don’t forget to **star ⭐ the repository** — it really helps!
-
----
-
-## 👩‍💻 Developed By
-
-**Pratigya Sharma**  
-Frontend Developer | React Enthusiast 🚀
