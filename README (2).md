@@ -18,7 +18,8 @@ Perfect for **learning, demos, and showcasing frontend skills** 🚀
 
 ![Mini Shop Preview](preview.png)
 
----![Uploading preview.png.png…]()
+<img width="1494" height="2048" alt="preview image" src="https://github.com/user-attachments/assets/44f7f136-ef20-4d39-ae0f-72896d5334eb" />
+
 
 
 ## 🛒 Features
