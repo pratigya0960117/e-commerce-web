@@ -84,22 +84,36 @@ Perfect for **learning, demos, and showcasing frontend skills**
 ##  Project Structure
 
 ```
-mini-shop/
+Ecommerce-Website/
+│
+├── public/
+│   └── vite.svg
 │
 ├── src/
+│   ├── assets/
+│   │
 │   ├── components/
-│   │   ├── ProductCard.jsx
 │   │   ├── Cart.jsx
-│   │   ├── SearchBar.jsx
+│   │   ├── Filters.jsx
+│   │   └── ProductList.jsx
+│   │
+│   ├── hooks/
+│   │   └── useDebounce.js
+│   │
 │   │
 │   ├── App.jsx
-│   └── index.js
+│   ├── main.jsx
+│   └── index.css
 │
-├── images/
-│   ├── home.png
-│   └── cart.png
-│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
 └── README.md
+
 ```
 
 ---
