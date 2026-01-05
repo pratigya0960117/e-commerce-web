@@ -6,9 +6,6 @@ Perfect for **learning, demos, and showcasing frontend skills** 🚀
 
 ---
 
-## 🚀 Live Demo  
-🔗 **Live Website:** https://your-live-link-here  
-🔗 **GitHub Repository:** https://github.com/your-username/mini-shop
 
 ---
 
