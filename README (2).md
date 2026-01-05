@@ -1,8 +1,8 @@
 
-# 🛍️ Mini Shop – React E-commerce Website
+####  Mini Shop – React E-commerce Website
 
 A **simple, modern, and interactive React-based e-commerce website** featuring product listing, smart search, and a dynamic shopping cart.  
-Perfect for **learning, demos, and showcasing frontend skills** 🚀
+Perfect for **learning, demos, and showcasing frontend skills** 
 
 ---
 
