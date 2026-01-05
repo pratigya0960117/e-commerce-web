@@ -1,5 +1,5 @@
 
-<h1 align="center">🛍️ Mini Shop – React E-commerce Website</h1>
+<h1 align="center"> Mini Shop – E-Commerce Store (React + Tailwind CSS)</h1>
 
 
 A **simple, modern, and interactive React-based e-commerce website** featuring product listing, smart search, and a dynamic shopping cart.  
@@ -10,7 +10,7 @@ Perfect for **learning, demos, and showcasing frontend skills**
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 ![Mini Shop Preview](preview.png)
 
@@ -18,35 +18,57 @@ Perfect for **learning, demos, and showcasing frontend skills**
 
 
 
-## 🛒 Features
+##  Features
 
-✨ **Modern UI**
-- Responsive product grid layout  
-- Mobile, tablet & desktop friendly  
-
-🔍 **Search Functionality**
-- Real-time product search by name  
-- Instant filtering without reload  
-
-🧾 **Product Cards**
-- Category badges: Mini / Low Price / Trending  
-- Product price and stock availability  
-- Smooth hover effects  
-
-🛍️ **Cart Sidebar**
-- Add & remove products  
-- Automatic total price calculation  
-- Cart data saved in **localStorage**  
-- Cart persists after page refresh  
-
-🎯 **Smooth UX**
-- Animated cart sidebar  
-- “Back to Products” button  
-- Clean transitions  
+###  Product Listing
+- Fetches products from **dummyjson.com API**
+- Displays:
+  - Product image
+  - Title
+  - Price
+  - Stock status
+  - **Add to Cart** button
 
 ---
 
-## 💻 Technologies Used
+###  Search & Filters
+- Search products by **title**
+- Filter products by **category**
+- Sort products by **price**
+  - Low → High
+  - High → Low
+- **Clear Filters** option to reset the view
+
+---
+
+###  Shopping Cart
+- Add products to cart
+- Increase / decrease product quantity
+- Remove products from cart
+- Cart data **persists using localStorage**
+
+---
+
+###  Responsive Design
+- Fully responsive on:
+  -  Mobile
+  -  Tablet
+  -  Desktop
+- Sticky header for better navigation
+- Adaptive grid layout based on screen size
+
+---
+
+###  UI / UX
+- Clean & modern layout using **Tailwind CSS**
+- Smooth hover effects
+- Interactive buttons
+- Clean transitions & animations
+ 
+
+---
+
+##  Technologies Used
 
 | Technology | Description |
 |---------|------------|
