@@ -16,8 +16,8 @@ Perfect for **learning, demos, and showcasing frontend skills** 🚀
 
 > Add your website screenshots in an `images` folder and they will appear here.
 
-![Home Page](images/home.png)
-![Cart Sidebar](images/cart.png)
+![Home Page](preview.png)
+
 
 ---
 
