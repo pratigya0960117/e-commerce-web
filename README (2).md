@@ -16,7 +16,7 @@ Perfect for **learning, demos, and showcasing frontend skills** 🚀
 
 > Add your website screenshots in an `images` folder and they will appear here.
 
-![Mini Shop Preview](preview.png)
+![Mini Shop Preview](file:///C:/Users/Acer/OneDrive/Desktop/preview.png.png)
 
 ---
 
